@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-chat-app",
+  "version": "1.0.0",
+  "description": "Simple chat app that keeps permanent chat logs on mongo-db, and allowing for infinite number of chat rooms",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "mocha server/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaivubui/mongodb-chat-app.git"
+  },
+  "author": "Khai Bui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaivubui/mongodb-chat-app/issues"
+  },
+  "homepage": "https://github.com/khaivubui/mongodb-chat-app#readme"
+}
